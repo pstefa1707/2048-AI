@@ -1,5 +1,5 @@
-from bin.Grid import Grid, Moves
-from bin.AI import AI
+from lib.Grid import Grid, Moves
+from lib.AI import AI
 from time import time
 
 game = Grid()

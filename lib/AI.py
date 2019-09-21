@@ -1,6 +1,6 @@
 #30 line ai, capable of 100% 2048s at 400 (Haven't tried many possibilies) sims per move. Runs far quicker on Linux systems with multiprocessing enabled.
 
-from bin.Grid import *
+from lib.Grid import *
 import asyncio
 import random
 import multiprocessing

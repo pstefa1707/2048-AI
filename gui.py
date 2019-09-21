@@ -1,7 +1,7 @@
 #Didn't bother commenting pygame stuff, just a front end for interaction between AI and Grid class
 
-from bin.Grid import Grid, Moves
-from bin.AI import AI
+from lib.Grid import Grid, Moves
+from lib.AI import AI
 import pygame
 import sys
 import math
